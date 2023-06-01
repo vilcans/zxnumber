@@ -3,5 +3,9 @@ name = "zxnumber"
 version = "0.1.0"
 edition = "2021"
 license = "MIT OR Apache-2.0"
+categories = ["development-tools", "emulators"]
+keywords = ["zx-spectrum", "zx81", "8-bit", "basic"]
+description = "Converter for the floating point number format used by the Sinclair home computers ZX Spectrum and ZX-81"
+repository = "https://github.com/vilcans/zxnumber"
 
 [dependencies]
